@@ -1,6 +1,6 @@
 # 📄 Autocontrato
 
-Sistema desenvolvido para a empresa **Booat**, com o objetivo de **criar, enviar e gerenciar contratos automatizados para clientes**.
+O Autocontrato foi desenvolvido em setembro de 2023 para a empresa **Booat**, com o objetivo de **criar, enviar e gerenciar contratos automatizados para clientes**.
 
 Esse projeto foi pensado para **automatizar todo o fluxo de geração de contratos**, oferecendo uma experiência integrada tanto para os operadores (administradores) quanto para os clientes finais.
 
