@@ -1,0 +1,78 @@
+/* Folha de estilo universal */
+.titulo{
+    color: #0006B8 ;
+}
+.botao{
+    background-color: #0006B8;
+    border: none;
+    color: white;
+    height: 9vh;
+}
+
+.botaoAlturaMenor{
+    height: 5vh;
+}
+
+.botao:hover{
+    -webkit-box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.37);
+    -moz-box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.37);
+    box-shadow: 0px 0px 17px 0px rgba(0, 0, 0, 0.171);
+}
+.cursor{
+    cursor: pointer;
+}
+.validar{
+    background-color: #0006B8;
+    border: none;
+    color: white;
+}
+.placehold{
+    border-width: thin;
+    border-color: lightgrey;
+}
+.radio:checked{
+    background-color: #0006B8;
+    border: none;
+}
+.corpo{
+    min-height: 100vh;
+}
+.link{
+    text-decoration: none;
+}
+
+/* coisas */
+/* form {
+    width: 300px;
+    text-align: center;
+    height: 300px;
+    position: absolute;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+  } */
+
+form.appear {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.150);
+}
+
+.whatsapp-float {
+    position: fixed;
+    bottom: 85px;
+    right: 50px;
+    width: 200px;
+    height: 75px;
+    overflow: hidden;
+    z-index: 1000;
+}
+.whatsapp-float img {
+    position: absolute;
+    z-index: 1;
+    right: 0;
+}
+
+.oculto{
+    display: none;
+}

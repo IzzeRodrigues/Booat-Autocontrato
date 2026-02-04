@@ -1,0 +1,73 @@
+.oculto{
+    display: none;
+}
+
+.corpo{
+    min-height: 100vh;
+}
+
+.inputLogin{
+    height: 40px;
+    border: solid 1px lightgray;
+    border-radius: 5px;
+    padding-left: 1vw;
+}
+
+.inputLogin::placeholder{
+    color: lightgray;
+}
+
+.booat{
+    color: #18469d;
+}
+
+.botaoBooat{
+    color: white;
+    background-color: #18469d;
+    border: 1px solid #18469d;
+}
+
+.botaoLogin{
+    height: 40px;
+}
+
+.criarContaForm{
+    position: absolute;
+}
+
+.ParteSuperiorCriarConta{
+    height: 10vw;
+}
+
+.ParteInferiorCriarConta{
+    height: 20vw;
+}
+
+.documento{
+    border: 1px solid darkgray;
+}
+
+.textoCinza{
+    color: lightgray;
+}
+
+.caixaLinkGerado{
+    border: 2px solid lightgray;
+}
+
+.localLink{
+    background-color: rgb(235, 235, 235);
+}
+
+.botaoLink{
+    background-color: rgb(211, 211, 211);
+    border: none;
+}
+
+.localContrato{
+    height: 50vw;
+}
+
+.mutarTexto{
+    user-select: none;
+}
